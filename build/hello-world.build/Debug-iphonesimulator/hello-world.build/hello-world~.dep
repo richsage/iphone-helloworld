@@ -1,0 +1,9 @@
+afc5d6de2b3a96b1459aff95283e8faf 0b132b1c1531bcbac2c40c162692ea93 ffffffffffffffffffffffffffffffff 204 /Users/rich/Documents/hello-world/build/Debug-iphonesimulator/hello-world.app
+000000004bd43aab000000000000211c 5cbbd561f362a6ba9a7649b67bfd84ff ffffffffffffffffffffffffffffffff 1364 /Users/rich/Documents/hello-world/build/Debug-iphonesimulator/hello-world.app/MainWindow.nib
+00000000000000000000000000000000 3aa38de245cfbe0f8a2d7bdf0f0b60a0 ffffffffffffffffffffffffffffffff 8 /Users/rich/Documents/hello-world/build/Debug-iphonesimulator/hello-world.app/PkgInfo
+00000000000000000000000000000000 3aa38de245cfbe0f8a2d7bdf0f0b60a0 ffffffffffffffffffffffffffffffff 609 /Users/rich/Documents/hello-world/build/Debug-iphonesimulator/hello-world.app/Info.plist
+00000000000000000000000000000000 41a7ddadb11f13e16da8b35ff3b0e580 ffffffffffffffffffffffffffffffff 102 /Users/rich/Documents/hello-world/build/Debug-iphonesimulator/hello-world.app.dSYM
+64316b80238e909d1273ccc347b95b86 974f683fb0029a3dcd9f7ae0147a71ca ffffffffffffffffffffffffffffffff 18380 /Users/rich/Documents/hello-world/build/Debug-iphonesimulator/hello-world.app/hello-world
+8dbd3d7656ec201f8e6a207dc82eae09 bc36fe3be55c2a1f23f76eb4bb5e3087 ffffffffffffffffffffffffffffffff 17372 /Users/rich/Documents/hello-world/build/hello-world.build/Debug-iphonesimulator/hello-world.build/Objects-normal/i386/hello_worldAppDelegate.o
+8dbd3d761d381ab48e6a207dc82eac1b d80795bb8d4457cb3184a277fd814ead ffffffffffffffffffffffffffffffff 5940 /Users/rich/Documents/hello-world/build/hello-world.build/Debug-iphonesimulator/hello-world.build/Objects-normal/i386/main.o
+000000004bd416670000000000001462 8dbd3d765613571a8e6a207dc82ebe9c ffffffffffffffffffffffffffffffff 8749240 /var/folders/k0/k0+QTswCGcKyTyYY7KlRZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/hello_world_Prefix-eoszblipqjpbsjdnitorncujriva/hello_world_Prefix.pch.gch
